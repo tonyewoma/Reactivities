@@ -33,24 +33,6 @@ namespace Persistence
                     },
                     new Activity
                     {
-                        Title = "Future Activity 1",
-                        Date = DateTime.Now.AddMonths(1),
-                        Description = "Activity 1 month in future",
-                        Category = "culture",
-                        City = "London",
-                        Vanue = "Natural History Museum",
-                    },
-                    new Activity
-                    {
-                        Title = "Future Activity 2",
-                        Date = DateTime.Now.AddMonths(2),
-                        Description = "Activity 2 months in future",
-                        Category = "music",
-                        City = "London",
-                        Vanue = "O2 Arena",
-                    },
-                    new Activity
-                    {
                         Title = "Future Activity 3",
                         Date = DateTime.Now.AddMonths(3),
                         Description = "Activity 3 months in future",
