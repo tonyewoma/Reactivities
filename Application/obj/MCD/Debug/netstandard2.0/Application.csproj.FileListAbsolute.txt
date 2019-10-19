@@ -6,7 +6,6 @@ C:\Project\Demo\Reactivities\Application\bin\MCD\Debug\netstandard2.0\Persistenc
 C:\Project\Demo\Reactivities\Application\bin\MCD\Debug\netstandard2.0\Domain.pdb
 C:\Project\Demo\Reactivities\Application\bin\MCD\Debug\netstandard2.0\Persistence.pdb
 C:\Project\Demo\Reactivities\Application\obj\MCD\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
-C:\Project\Demo\Reactivities\Application\obj\MCD\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
 C:\Project\Demo\Reactivities\Application\obj\MCD\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
 C:\Project\Demo\Reactivities\Application\obj\MCD\Debug\netstandard2.0\Application.AssemblyInfo.cs
 C:\Project\Demo\Reactivities\Application\obj\MCD\Debug\netstandard2.0\Application.csproj.CopyComplete

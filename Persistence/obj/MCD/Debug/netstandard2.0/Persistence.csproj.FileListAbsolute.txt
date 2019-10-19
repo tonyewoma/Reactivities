@@ -4,7 +4,6 @@ C:\Project\Demo\Reactivities\Persistence\bin\MCD\Debug\netstandard2.0\Persistenc
 C:\Project\Demo\Reactivities\Persistence\bin\MCD\Debug\netstandard2.0\Domain.dll
 C:\Project\Demo\Reactivities\Persistence\bin\MCD\Debug\netstandard2.0\Domain.pdb
 C:\Project\Demo\Reactivities\Persistence\obj\MCD\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
-C:\Project\Demo\Reactivities\Persistence\obj\MCD\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
 C:\Project\Demo\Reactivities\Persistence\obj\MCD\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
 C:\Project\Demo\Reactivities\Persistence\obj\MCD\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
 C:\Project\Demo\Reactivities\Persistence\obj\MCD\Debug\netstandard2.0\Persistence.csproj.CopyComplete

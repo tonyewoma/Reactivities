@@ -10,7 +10,6 @@ C:\Project\Demo\Reactivities\API\bin\MCD\Debug\netcoreapp2.2\Application.pdb
 C:\Project\Demo\Reactivities\API\bin\MCD\Debug\netcoreapp2.2\Domain.pdb
 C:\Project\Demo\Reactivities\API\bin\MCD\Debug\netcoreapp2.2\Persistence.pdb
 C:\Project\Demo\Reactivities\API\obj\MCD\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
-C:\Project\Demo\Reactivities\API\obj\MCD\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
 C:\Project\Demo\Reactivities\API\obj\MCD\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
 C:\Project\Demo\Reactivities\API\obj\MCD\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
 C:\Project\Demo\Reactivities\API\obj\MCD\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
@@ -19,3 +18,6 @@ C:\Project\Demo\Reactivities\API\obj\MCD\Debug\netcoreapp2.2\API.RazorTargetAsse
 C:\Project\Demo\Reactivities\API\obj\MCD\Debug\netcoreapp2.2\API.csproj.CopyComplete
 C:\Project\Demo\Reactivities\API\obj\MCD\Debug\netcoreapp2.2\API.dll
 C:\Project\Demo\Reactivities\API\obj\MCD\Debug\netcoreapp2.2\API.pdb
+C:\Project\Demo\Reactivities\API\bin\MCD\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Project\Demo\Reactivities\API\bin\MCD\Debug\netcoreapp2.2\appsettings.json
+C:\Project\Demo\Reactivities\API\bin\MCD\Debug\netcoreapp2.2\Properties\launchSettings.json
