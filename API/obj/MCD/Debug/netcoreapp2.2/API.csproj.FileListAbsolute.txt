@@ -21,3 +21,5 @@ C:\Project\Demo\Reactivities\API\obj\MCD\Debug\netcoreapp2.2\API.pdb
 C:\Project\Demo\Reactivities\API\bin\MCD\Debug\netcoreapp2.2\appsettings.Development.json
 C:\Project\Demo\Reactivities\API\bin\MCD\Debug\netcoreapp2.2\appsettings.json
 C:\Project\Demo\Reactivities\API\bin\MCD\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Project\Demo\Reactivities\API\bin\MCD\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Project\Demo\Reactivities\API\bin\MCD\Debug\netcoreapp2.2\Infrastructure.pdb
